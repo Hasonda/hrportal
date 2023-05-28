@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hrportal;/static/css/main.44c59d7f.css",
-    "main.js": "/hrportal;/static/js/main.85b793fe.js",
-    "index.html": "/hrportal;/index.html",
-    "main.44c59d7f.css.map": "/hrportal;/static/css/main.44c59d7f.css.map",
-    "main.85b793fe.js.map": "/hrportal;/static/js/main.85b793fe.js.map"
+    "main.css": "/hrportal/static/css/main.44c59d7f.css",
+    "main.js": "/hrportal/static/js/main.85b793fe.js",
+    "index.html": "/hrportal/index.html",
+    "main.44c59d7f.css.map": "/hrportal/static/css/main.44c59d7f.css.map",
+    "main.85b793fe.js.map": "/hrportal/static/js/main.85b793fe.js.map"
   },
   "entrypoints": [
     "static/css/main.44c59d7f.css",
